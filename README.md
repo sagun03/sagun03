@@ -42,7 +42,7 @@ sagun = {
 
 ### 🚀 Projects
 
-**[IdeaAudit](https://ideaaudit.vercel.app)** — Multi-agent LLM system that stress-tests startup ideas using structured agentic reasoning and semantic retrieval. Live.
+**[IdeaAudit](https://idea-audit-dev.web.app/)** — Multi-agent LLM system that stress-tests startup ideas using structured agentic reasoning and semantic retrieval. Live.
 
 **[JobWatch Sentinel](https://github.com/sagun03)** — AI-powered job tracker. Monitors listings, detects changes, surfaces what matters. Built because I needed it.
 
